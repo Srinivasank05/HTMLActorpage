@@ -1,4 +1,11 @@
 <center>
+
 <h2>this is actore page</h2>
 <p>Chandrasekaran Joseph Vijay (born 22 June 1974) is an Indian politician and former actor </p>
+
+
+<h2>this is actore page1</h2>
+<p>contact no:8978977<p>
+
 </center>
+
